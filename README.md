@@ -5,8 +5,11 @@ A fully functional Proof-of-Work blockchain written in Go, including:
 Blockchain core
 
 Wallet system (ECDSA)
+<img width="1536" height="1024" alt="ChatGPT Image Nov 20, 2025, 02_05_08 AM" src="https://github.com/user-attachments/assets/8c0ca14e-969d-47de-8283-7d184da5609a" />
 
-Mining engine
+Mining engine<img width="1536" height="1024" alt="ChatGPT Image Nov 20, 2025, 02_03_36 AM" src="https://github.com/user-attachments/assets/4f41800c-0f5a-41e5-aff6-b969060960b0" />
+
+![Uploading ChatGPT Image Nov 20, 2025, 02_03_07 AM.png…]()
 
 REST API server
 
