@@ -8,8 +8,9 @@ Wallet system (ECDSA)
 <img width="1536" height="1024" alt="ChatGPT Image Nov 20, 2025, 02_05_08 AM" src="https://github.com/user-attachments/assets/8c0ca14e-969d-47de-8283-7d184da5609a" />
 
 Mining engine<img width="1536" height="1024" alt="ChatGPT Image Nov 20, 2025, 02_03_36 AM" src="https://github.com/user-attachments/assets/4f41800c-0f5a-41e5-aff6-b969060960b0" />
+<img width="1024" height="1536" alt="ChatGPT Image Nov 20, 2025, 01_59_10 AM" src="https://github.com/user-attachments/assets/b0da02b6-7d64-4e34-a70e-a796fb6adc2d" />
 
-![Uploading ChatGPT Image Nov 20, 2025, 02_03_07 AM.png…]()
+
 
 REST API server
 
@@ -176,5 +177,6 @@ go build -o blockchain_node blockchain_server.go
 
 
 📜 License
+<img width="1536" height="1024" alt="ChatGPT Image Nov 20, 2025, 02_20_18 AM" src="https://github.com/user-attachments/assets/ad3a7601-4c06-4918-b7af-dd54ce577e02" />
 
 This project is open-source under the MIT License.
